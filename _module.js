@@ -4086,7 +4086,7 @@ function create_fragment$4(ctx) {
 				site_nav: [
 					{
 						"link": {
-							"url": "/about",
+							"url": "Demo/about",
 							"label": "About",
 							"active": false
 						}
