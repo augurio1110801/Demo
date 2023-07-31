@@ -4372,8 +4372,8 @@ function create_fragment$5(ctx) {
 				title: "Blog",
 				description: "Our blog to learn everything you need to save the trees",
 				content: {
-					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
-					"markdown": "### BillionTrees <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
+					"html": "<h3>Augurio<br></h3><p>Demo</p>",
+					"markdown": "### Augurio<br>\n\n\n\nDemo\n\n"
 				},
 				menus: [
 					{
