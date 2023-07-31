@@ -4086,23 +4086,23 @@ function create_fragment$4(ctx) {
 				site_nav: [
 					{
 						"link": {
-							"url": "/about",
+							"url": "/Demo/about",
 							"label": "About",
 							"active": false
 						}
 					},
 					{
 						"link": {
-							"url": "/mission",
+							"url": "/Demo/mission",
 							"label": "Mission",
 							"active": false
 						}
 					},
 					{
-						"link": { "url": "/team", "label": "Team" }
+						"link": { "url": "/Demo/team", "label": "Team" }
 					},
 					{
-						"link": { "url": "/blog", "label": "Blog" }
+						"link": { "url": "/Demo/blog", "label": "Blog" }
 					}
 				]
 			}
