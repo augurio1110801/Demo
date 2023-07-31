@@ -4093,13 +4093,13 @@ function create_fragment$4(ctx) {
 					},
 					{
 						"link": {
-							"url": "/mission",
+							"url": "Demo/mission",
 							"label": "Mission",
 							"active": false
 						}
 					},
 					{
-						"link": { "url": "/team", "label": "Team" }
+						"link": { "url": "Demo/team", "label": "Team" }
 					},
 					{
 						"link": { "url": "Demo/blog", "label": "Blog" }
