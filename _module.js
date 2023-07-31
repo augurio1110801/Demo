@@ -4102,7 +4102,7 @@ function create_fragment$4(ctx) {
 						"link": { "url": "/team", "label": "Team" }
 					},
 					{
-						"link": { "url": "/blog", "label": "Blog" }
+						"link": { "url": "Demo/blog", "label": "Blog" }
 					}
 				]
 			}
